@@ -4,7 +4,6 @@ import Text from './Text';
 import Radio from './Radio';
 import Button from './Button';
 import Switch from './Switch';
-import Wysiwyg from './Wysiwyg';
 import Textarea from './Textarea';
 import Checkbox from './Checkbox';
 import InnerText from './InnerText';
